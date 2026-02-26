@@ -4,7 +4,10 @@
 Build a machine learning model to classify movie reviews as positive or negative.
 
 ## Dataset
-IMDb 50K movie reviews dataset.
+Dataset is not included in the repository due to size.
+Download it from Kaggle:
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+Place the CSV file inside the `data/` folder.
 
 ## Method
 - Text preprocessing (cleaning, stopword removal)
